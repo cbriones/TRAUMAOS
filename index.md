@@ -1,6 +1,6 @@
 ## TRAUMADOS
 
-![logo sin filtro](/TRAUMAOS/assets/images/TRAUMADOS scratched02-300dpi-waifu2x.png)
+![logo sin filtro](/TRAUMAOS/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x.png)
 
 You can use the [editor on GitHub](https://github.com/cbriones/TRAUMAOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
