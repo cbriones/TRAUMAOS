@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## TRAUMADOS
+
+![logo sin filtro](/least-github-pages/assets/images/TRAUMADOS scratched02-300dpi-waifu2x.png)
 
 You can use the [editor on GitHub](https://github.com/cbriones/TRAUMAOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
