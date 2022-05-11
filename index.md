@@ -1,4 +1,3 @@
-## TRAUMADOS
 
 ![logo sin filtro](/TRAUMAOS/docs/assets/images/TRAUMADOS scratched02-300dpi-waifu2x.png)
 
